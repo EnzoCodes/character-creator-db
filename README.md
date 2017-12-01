@@ -1,2 +1,3 @@
-# character-creator-db
-Database / server test fun
+# **CHARACTER CREATOR**
+
+Fun DB live deployment experiment using HEROKU! 
